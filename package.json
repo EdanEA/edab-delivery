@@ -1,0 +1,17 @@
+{
+  "name": "edab-delivery",
+  "version": "1.0.3",
+  "description": "Not a delivery bot, that's definitely for sure.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edan",
+  "license": "Unlicense",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "eris": "^0.8.2",
+    "snekfetch": "^3.6.1",
+    "sqlite": "^2.9.2"
+  }
+}

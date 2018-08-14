@@ -1,0 +1,15 @@
+{
+  "bot": {
+    "token": "",
+    "id": "",
+    "prefix": "",
+    "invite_url":"",
+    "officialserver":"",
+    "logs":"",
+    "deliveryCenter": ""
+  },
+
+  "owner": {
+    "id": ""
+  }
+}
