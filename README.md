@@ -1,6 +1,3 @@
-[![Discord Bots](https://discordbots.org/api/widget/status/412401784586371102.svg)](https://discordbots.org/bot/412401784586371102)
-[![Discord Server](https://discordapp.com/api/guilds/380310916341956610/embed.png)](https://discord.me/xdd)
-
 Edab Delivery
 ======
 ## What be this, fam-cycles?
@@ -14,3 +11,6 @@ Edab Delivery
 
 ## How do you use this?
 ##### 'Tis quite simple, all you have to do is type "]>order *what you want to order*." Then it will be delivered to you soon.
+
+[![Discord Bots](https://discordbots.org/api/widget/status/412401784586371102.svg)](https://discordbots.org/bot/412401784586371102)
+[![Discord Server](https://discordapp.com/api/guilds/380310916341956610/embed.png)](https://discord.me/xdd)
